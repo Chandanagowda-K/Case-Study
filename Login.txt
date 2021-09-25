@@ -1,0 +1,13 @@
+<html>
+<head>
+  <title>Login</title>
+</head>
+<body>
+  <h1 align="center">Welcome to Home Page</h1><br><br>
+  <form name="Login" align="center">
+    Name:<input type="text" name="Name" value=""><br><br>
+    password:<input type="password" name="Password" value=""><br><br>
+    <a href="Details.html">Login</a>
+    </form>
+  </body>
+</html>

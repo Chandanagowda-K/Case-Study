@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Slots</title>
+</head>
+<body>
+<h1 align="center">Book a Slot</h1>
+<form align="center">
+<label>schedule</label>
+<input type="radio" name="schedule" value="10-11"/>10-11<br><br>
+<input type="radio" name="schedule" value="11-12"/>11-12<br><br>
+<input type="radio" name="schedule" value="01-02"/>01-02<br><br>
+<input type="radio" name="schedule" value="02-03"/>02-03<br><br>
+<input type="radio" name="schedule" value="03-04"/>03-04<br><br>
+<a href="Doctor.html">Consult</a>
+</form>
+</body>
+</html>
