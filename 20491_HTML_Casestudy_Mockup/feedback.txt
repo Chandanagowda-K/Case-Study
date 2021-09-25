@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Feedback</title>
+</head>
+<body>
+<h3align= "center"> FEEDBACK FORM </h3>
+<p "Give your feedback below" ></p></br>
+<input type="radio" />excellent<br><br>
+<input type="radio" />good<br><br>
+ <input type="radio" />average<br><br>   
+<input type="radio" />bad<br><br>
+<input type="radio" />very bad<br><br>
+<input type="submit" name="submit" value="submit"></br>
+</body>
+</html>

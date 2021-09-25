@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Patient Details</title>
+</head>
+<body>
+<font color="Red" text_align="center">Patient Details</font><br><br>
+<form name="Details" align="center">
+Firstname:<input type="text" name="FirstName" value=" "><br><br>
+Lastname:<input type="text" name="Lastname" value=""><br><br>
+Address:<input type="text" name="Address" value=""><br><br>
+Mobile No:<input type="text" name="Mobile No" value=""><br><br>
+<a href="specilist.html">Submit</a>
+</form>
+</body>
+</html>

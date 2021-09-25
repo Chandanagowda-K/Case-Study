@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Treatment</title>
+</head>
+<body>
+<form align="center">
+Medicines:<input type="textarea" name="Medicines" value=""><br><br>
+<input type="submit" name="submit" vallue="submit">
+<a href="feedback.html">submit</a>
+</form>
+</body>
+</html>
